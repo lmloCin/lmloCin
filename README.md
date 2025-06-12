@@ -11,7 +11,7 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado recentemente:
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,python,django,,java,github,git,gherkin,docker,ai,linux,r" />
+    <img src="https://skillicons.dev/icons?i=aws,python,java,github,git,gherkin,docker,ai,linux,r" />
   </a>
 </p>
 
@@ -25,8 +25,8 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado recentemente:
 
 <p align="center">
   <a href="https://github.com/[SEU-USUARIO-GITHUB]">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[SEU-USUARIO-GITHUB]&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU-USUARIO-GITHUB]&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[lmloCin]&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[lmloCin]&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </p>
 
