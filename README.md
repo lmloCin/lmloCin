@@ -21,13 +21,5 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado recentemente:
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[lmlo@cin.ufpe.br])
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lmloCin/lmloCin)
 
-## ✨ Estatísticas do GitHub
-
-<p align="center">
-  <a href="https://github.com/lmloCin">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lmloCin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmloCin&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-</p>
 
 ---
