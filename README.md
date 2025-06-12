@@ -24,7 +24,7 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado recentemente:
 ## ✨ Estatísticas do GitHub
 
 <p align="center">
-  <a href="https://github.com/[SEU-USUARIO-GITHUB]">
+  <a href="https://github.com/lmloCin">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lmloCin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmloCin&layout=compact&langs_count=7&theme=dracula"/>
   </a>
