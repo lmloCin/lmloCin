@@ -11,7 +11,7 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado recentemente:
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,python,java,github,git,gherkin,docker,ai,linux,r" />
+    <img src="https://skillicons.dev/icons?i=python,java,cs,dotnet,gcp,gitlab,kotlin,github,git,gherkin,docker,ai,linux,r" />
   </a>
 </p>
 
